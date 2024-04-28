@@ -1,4 +1,5 @@
 ![Main Network Diagram](./images/NetworkDesign.png)
+![Main Network Diagram xml](./images/NetworkDesign1)
    Device          IP Address 
 Camera Router 	  20.26.82.0/24
 Employees	     20.26.83.0/24
