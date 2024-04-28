@@ -1,11 +1,13 @@
 ![Main Network Diagram](./images/NetworkDesign.png)
 ![Main Network Diagram xml](./images/NetworkDesign1)
+
    Device          IP Address 
 Camera Router 	  20.26.82.0/24
 Employees	     20.26.83.0/24
 Server           20.26.84.0/24
 
 Serving as the company's central location, the main office is connected to the internet via a network's gatekeeper along with port. Ethernet lines link the upmarket facility and the shop premises. Each segment has its own VLAN; these include partnered fitness centers, businesses, stores, and studios. There are now WiFi connection points available for both customer and employee use. Administering an arrangement is known as retail. 
+
 2. Important Architectural Choices Described in detail:
 Separating a network's traffic enhances management, silence, and storage space by separating communications into VLANs. Robust security measures, such as networks and systems that prevent attacks, preserve communications. Connecting with a membership system of databases enables customised products and streamlines procedures. 
 Using cloud assets ensures efficiency, quick expansion, flexibility, and regulatory compliance. 
